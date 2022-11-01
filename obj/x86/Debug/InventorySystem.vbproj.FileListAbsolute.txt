@@ -1,0 +1,61 @@
+C:\Users\Kugbee Dhalin\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\bin\x86\Debug\InventorySystem.exe
+C:\Users\Kugbee Dhalin\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\bin\x86\Debug\InventorySystem.pdb
+C:\Users\Kugbee Dhalin\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\bin\x86\Debug\InventorySystem.xml
+C:\Users\Kugbee Dhalin\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kugbee Dhalin\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.Form1.resources
+C:\Users\Kugbee Dhalin\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.Resources.resources
+C:\Users\Kugbee Dhalin\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.vbproj.GenerateResource.Cache
+C:\Users\Kugbee Dhalin\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.exe
+C:\Users\Kugbee Dhalin\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.xml
+C:\Users\Kugbee Dhalin\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.pdb
+C:\Users\Kugbee Dhalin\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.Stock.resources
+C:\Users\Kugbee Dhalin\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\bin\x86\Debug\InventorySystem.exe.config
+C:\Users\Kugbee Dhalin\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.ReportOnSales.resources
+C:\Users\Kugbee Dhalin\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.ReportOnStock.resources
+C:\Users\Kugbee Dhalin\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.CreditSales.resources
+C:\Users\Kugbee Dhalin\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.CashSales.resources
+C:\Users\Kugbee Dhalin\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.SalesCategory.resources
+C:\Users\Kugbee Dhalin\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.UpdateStock.resources
+C:\Users\Kugbee Dhalin\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.DebtorsForm.resources
+C:\Users\KUGBEE FLOKY DHALIN\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\bin\x86\Debug\InventorySystem.exe.config
+C:\Users\KUGBEE FLOKY DHALIN\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.exe
+C:\Users\KUGBEE FLOKY DHALIN\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.xml
+C:\Users\KUGBEE FLOKY DHALIN\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.pdb
+C:\Users\KUGBEE FLOKY DHALIN\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\bin\x86\Debug\InventorySystem.exe
+C:\Users\KUGBEE FLOKY DHALIN\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\bin\x86\Debug\InventorySystem.pdb
+C:\Users\KUGBEE FLOKY DHALIN\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\bin\x86\Debug\InventorySystem.xml
+C:\Users\KUGBEE FLOKY DHALIN\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KUGBEE FLOKY DHALIN\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.CreditSales.resources
+C:\Users\KUGBEE FLOKY DHALIN\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.DebtorsForm.resources
+C:\Users\KUGBEE FLOKY DHALIN\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.Form1.resources
+C:\Users\KUGBEE FLOKY DHALIN\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.Resources.resources
+C:\Users\KUGBEE FLOKY DHALIN\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.ReportOnSales.resources
+C:\Users\KUGBEE FLOKY DHALIN\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.ReportOnStock.resources
+C:\Users\KUGBEE FLOKY DHALIN\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.CashSales.resources
+C:\Users\KUGBEE FLOKY DHALIN\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.SalesCategory.resources
+C:\Users\KUGBEE FLOKY DHALIN\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.Stock.resources
+C:\Users\KUGBEE FLOKY DHALIN\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.UpdateStock.resources
+C:\Users\KUGBEE FLOKY DHALIN\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.vbproj.GenerateResource.Cache
+C:\Users\KUGBEE FLOKY DHALIN\OneDrive\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\bin\x86\Debug\InventorySystem.exe.config
+C:\Users\KUGBEE FLOKY DHALIN\OneDrive\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.exe
+C:\Users\KUGBEE FLOKY DHALIN\OneDrive\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.xml
+C:\Users\KUGBEE FLOKY DHALIN\OneDrive\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.pdb
+C:\Users\KUGBEE FLOKY DHALIN\OneDrive\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\bin\x86\Debug\InventorySystem.exe
+C:\Users\KUGBEE FLOKY DHALIN\OneDrive\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\bin\x86\Debug\InventorySystem.pdb
+C:\Users\KUGBEE FLOKY DHALIN\OneDrive\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\bin\x86\Debug\InventorySystem.xml
+C:\Users\KUGBEE FLOKY DHALIN\OneDrive\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KUGBEE FLOKY DHALIN\OneDrive\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.CreditSales.resources
+C:\Users\KUGBEE FLOKY DHALIN\OneDrive\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.DebtorsForm.resources
+C:\Users\KUGBEE FLOKY DHALIN\OneDrive\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.Form1.resources
+C:\Users\KUGBEE FLOKY DHALIN\OneDrive\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.Resources.resources
+C:\Users\KUGBEE FLOKY DHALIN\OneDrive\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.ReportOnSales.resources
+C:\Users\KUGBEE FLOKY DHALIN\OneDrive\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.ReportOnStock.resources
+C:\Users\KUGBEE FLOKY DHALIN\OneDrive\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.CashSales.resources
+C:\Users\KUGBEE FLOKY DHALIN\OneDrive\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.SalesCategory.resources
+C:\Users\KUGBEE FLOKY DHALIN\OneDrive\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.Stock.resources
+C:\Users\KUGBEE FLOKY DHALIN\OneDrive\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.UpdateStock.resources
+C:\Users\KUGBEE FLOKY DHALIN\OneDrive\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.vbproj.GenerateResource.Cache
+C:\Users\KUGBEE FLOKY DHALIN\OneDrive\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.OilForm.resources
+C:\Users\KUGBEE FLOKY DHALIN\OneDrive\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.CreateSalesPerson.resources
+C:\Users\KUGBEE FLOKY DHALIN\OneDrive\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.Log_In.resources
+C:\Users\KUGBEE FLOKY DHALIN\OneDrive\Documents\Visual Studio 2008\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.SaltForm.resources
